@@ -1,8 +1,8 @@
-### Hi there 👋
 <div id="header" align="center">
  <img src="juicy-man-programmer-writing-code-and-make-web-design-on-a-pc.gif" width="300" />
-
 </div>  
+
+<h3>Hello, I'm Maxim and I'm a web developer</h3>
 <!--
 **Nixx342/Nixx342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
