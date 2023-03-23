@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNjMTAwODc4ODExZjQzMzI2NjUyNzc1ZWFiYTZhYmE4MTAyYzEzMiZjdD1n/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300" />
+ <img src="73426942719@mangosip.ru" width="300" />
 
 </div>  
 <!--
