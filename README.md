@@ -1,6 +1,7 @@
 ### Hi there 👋
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"  />
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNjMTAwODc4ODExZjQzMzI2NjUyNzc1ZWFiYTZhYmE4MTAyYzEzMiZjdD1n/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300" />
+
 </div>  
 <!--
 **Nixx342/Nixx342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
