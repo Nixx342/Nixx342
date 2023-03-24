@@ -31,6 +31,10 @@
 	<img src="git.svg" alt="git" width="50" color="white"/>
 </div>
 
+
+
+
+
 <div id="stat" align="center">
 	<h1>Stats</h1>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nixx342&theme=github_dark" wigth="90%"/>
