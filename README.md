@@ -8,7 +8,7 @@
 </div>
 
 <a href="https://t.me/Nixx5">
-	<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	<img src="https://icons8.ru/icon/63306/телеграмма-app" alt="Telegram"/>
 </a>
 <!--
 **Nixx342/Nixx342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
