@@ -3,7 +3,8 @@
 </div>  
 
 <div align="center">
- <h3>Hello, I'm Maxim and I'm a web developer</h3>
+ <h1>Hello, I'm Maxim</h1>
+ <h3>I'm a web developer</h3>
 </div>
 <!--
 **Nixx342/Nixx342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
