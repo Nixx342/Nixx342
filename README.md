@@ -3,13 +3,16 @@
 </div>  
 
 <div align="center">
- <h1>Hello, I'm Maxim</h1>
- <h3>I'm a web developer</h3>
+	 <h1>Hello, I'm Maxim</h1>
+	 <h3>I'm a web developer</h3>
 </div>
 
-<a href="https://t.me/Nixx5">
-	<img src="telegram.svg" alt="Telegram" width="100"/>
-</a>
+<div id="social-links" align="center">
+	<a href="https://t.me/Nixx5">
+		<img src="telegram.svg" alt="Telegram" width="100"/>
+	</a>
+</div>
+
 <!--
 **Nixx342/Nixx342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
