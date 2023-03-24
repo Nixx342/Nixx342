@@ -24,13 +24,11 @@
 	<h3>Languages & Tools</h3>
 	<img src="JS.svg" alt="JS" width="100"/>
 	<img src="css.svg" alt="css" width="100"/>
-	
-        <img src="css.svg" alt="CSS" width="100"/>&nbsp;
-        <img src="html.svg" alt="HTML" width="100"/>&nbsp;
-	<img src="react.svg" alt="React" width="100"/>&nbsp;
-	<img src="npm.svg" alt="npm" width="100"/>&nbsp;
-        <img src="node.svg" alt="node" width="100"/>&nbsp;
-        <img src="git.svg" alt="git" width="100"/>&nbsp;
+	<img src="html.svg" alt="html" width="100"/>
+	<img src="react.svg" alt="react" width="100"/>
+	<img src="node.svg" alt="node" width="100"/>
+	<img src="npm.svg" alt="npm" width="100"/>
+	<img src="git.svg" alt="git" width="100"/>
 </div>
 
 <div id="stat" align="center">
