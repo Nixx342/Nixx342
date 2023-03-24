@@ -28,7 +28,7 @@
 	<img src="react.svg" alt="react" width="100"/>
 	<img src="node.svg" alt="node" width="100"/>
 	<img src="npm.svg" alt="npm" width="100"/>
-	<img src="git.svg" alt="git" width="100"/>
+	<img src="git.svg" alt="git" width="100" color="white"/>
 </div>
 
 <div id="stat" align="center">
