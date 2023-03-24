@@ -20,7 +20,7 @@
 	- 📫 How to reach me: [Telegram](https://t.me/Nixx5)
 </div>
 
-<div id="tools">
+<!-- <div id="tools">
 	<h3>Languages & Tools</h3>
 	
         <img src="cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="100"/>&nbsp;
@@ -32,6 +32,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="git" width="100"/>&nbsp;
         
 
+</div> -->
+
+<div>
+	![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
 </div>
 
 <!--
