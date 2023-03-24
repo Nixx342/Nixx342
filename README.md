@@ -21,7 +21,7 @@
 </div>
 
 <div id="tools" align="center">
-	<h3>Languages & Tools</h3>
+	<h1>Languages & Tools</h1>
 	<img src="JS.svg" alt="JS" width="50"/>
 	<img src="css.svg" alt="css" width="50"/>
 	<img src="html.svg" alt="html" width="50"/>
@@ -32,6 +32,7 @@
 </div>
 
 <div id="stat" align="center">
+	<h1>Stats</h1>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nixx342&theme=github_dark" wigth="90%"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nixx342&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nixx342&theme=github_dark"/>
