@@ -20,7 +20,7 @@
 	- 📫 How to reach me: "[Telegram](https://t.me/Nixx5)", [email](mailto:Sytnik.M.Yu@gmail)
 </div>
 
-<div id="tools">
+<div id="tools" align="center">
 	<h3>Languages & Tools</h3>
 	
         <img src="JS.svg" alt="JS" width="100"/>&nbsp;
