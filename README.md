@@ -4,7 +4,7 @@
 
 <div align="center">
 	 <h1>Hello, I'm Maxim</h1>
-	 <h3>I'm a web developer</h3>
+	 <h3>I'm a Web Developer from Russia</h3>
 </div>
 
 <div id="social-links" align="center">
