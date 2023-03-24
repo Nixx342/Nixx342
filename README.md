@@ -8,7 +8,7 @@
 </div>
 
 <a href="https://t.me/Nixx5">
-	<img src="telegram.svg" alt="Telegram"/>
+	<img src="telegram.svg" alt="Telegram" width="100"/>
 </a>
 <!--
 **Nixx342/Nixx342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
