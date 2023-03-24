@@ -13,6 +13,29 @@
 	</a>
 </div>
 
+<div id="aboutMe">
+	<h3>About me</h3>
+	- 🔭 I’m currently working on ...
+	- 🌱 I’m currently learning ...
+	- 📫 How to reach me: [Telegram](https://t.me/Nixx5)
+</div>
+
+<div id="tools">
+	<h3>Languages & Tools</h3>
+	
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+          
+          
+	
+
+</div>
+
 <!--
 **Nixx342/Nixx342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
