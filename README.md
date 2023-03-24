@@ -20,19 +20,17 @@
 	- 📫 How to reach me: "[Telegram](https://t.me/Nixx5)", [email](mailto:Sytnik.M.Yu@gmail)
 </div>
 
-<!-- <div id="tools">
+<div id="tools">
 	<h3>Languages & Tools</h3>
 	
-        <img src="cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="100"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="100"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="100"/>&nbsp;
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="100"/>&nbsp;
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="100"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="node" width="100"/>&nbsp;
-        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://blog.skillfactory.ru/kak-pravilno-oformit-profil-github-novichku/)" alt="git" width="100"/>&nbsp;
-        
-
-</div> -->
+        <img src="JS.svg" alt="JS" width="100"/>&nbsp;
+        <img src="css.svg" alt="CSS" width="100"/>&nbsp;
+        <img src="html.svg" alt="HTML" width="100"/>&nbsp;
+	<img src="react.svg" alt="React" width="100"/>&nbsp;
+	<img src="npm.svg" alt="npm" width="100"/>&nbsp;
+        <img src="node.svg" alt="node" width="100"/>&nbsp;
+        <img src="git.svg" alt="git" width="100"/>&nbsp;
+</div>
 
 <div id="stat" align="center">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nixx342&theme=github_dark" wigth="90%"/>
