@@ -23,7 +23,7 @@
 <div id="tools" align="center">
 	<h3>Languages & Tools</h3>
 	
-        <img src="JS.svg" alt="JS" width="100"/>&nbsp;
+	<a><img src="JS.svg" alt="JS" width="100"/></a>&nbsp;
         <img src="css.svg" alt="CSS" width="100"/>&nbsp;
         <img src="html.svg" alt="HTML" width="100"/>&nbsp;
 	<img src="react.svg" alt="React" width="100"/>&nbsp;
