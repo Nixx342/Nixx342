@@ -17,7 +17,7 @@
 	<h3>About me</h3>
 	- 🔭 I’m currently working on ...
 	- 🌱 I’m currently learning ...
-	- 📫 How to reach me: [Telegram](t.me/Nixx5)
+	- 📫 How to reach me: "[Telegram](https://t.me/Nixx5)"
 </div>
 
 <!-- <div id="tools">
@@ -29,7 +29,7 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="100"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="100"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="node" width="100"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="git" width="100"/>&nbsp;
+        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://blog.skillfactory.ru/kak-pravilno-oformit-profil-github-novichku/)" alt="git" width="100"/>&nbsp;
         
 
 </div> -->
