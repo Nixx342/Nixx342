@@ -7,10 +7,6 @@
 	 <h3>I'm a Web Developer from Russia</h3>
 </div>
 
-<!-- <div id="social-links" align="center">
-	
-</div> -->
-
 <div id="aboutMe" align="center">
 	<h1>About me</h1>
 	- 🔭 I’m currently working on ... <br>
@@ -19,6 +15,7 @@
 </div>
 
 <div id="contacts" align="center">
+	<h1>Contacts</h1>
 	<a href="https://t.me/Nixx5">
 		<img src="telegram.svg" alt="Telegram" width="100"/>
 	</a>
@@ -35,10 +32,6 @@
 	<img src="git.svg" alt="git" width="50"/>
 	<img src="github.svg" alt="git" width="50"/>
 </div>
-
-
-
-
 
 <div id="stat" align="center">
 	<h1>Stats</h1>
