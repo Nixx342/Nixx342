@@ -17,7 +17,7 @@
 	<h1>About me</h1>
 	- 🔭 I’m currently working on ... <br>
 	- 🌱 I’m currently learning ... <br>
-	- 📫 How to reach me: "[Telegram](https://t.me/Nixx5)", [email](mailto:Sytnik.M.Yu@gmail)
+	- 📫 How to reach me: <a src="https://t.me/Nixx5">Telegram</a>
 </div>
 
 <div id="tools" align="center">
