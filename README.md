@@ -13,10 +13,10 @@
 	</a>
 </div>
 
-<div id="aboutMe">
-	<h3>About me</h3>
-	- 🔭 I’m currently working on ... &nbsp;
-	- 🌱 I’m currently learning ... &nbsp;
+<div id="aboutMe" align="center">
+	<h1>About me</h1>
+	- 🔭 I’m currently working on ... <br>
+	- 🌱 I’m currently learning ... <br>
 	- 📫 How to reach me: "[Telegram](https://t.me/Nixx5)", [email](mailto:Sytnik.M.Yu@gmail)
 </div>
 
