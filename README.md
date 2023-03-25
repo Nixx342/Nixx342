@@ -11,12 +11,12 @@
 	<h1>About me</h1>
 	- 🔭 I’m currently working on ... <br>
 	- 🌱 I’m currently learning JS and English<br>
-	- 📫 How to reach me: Telegram or Email
-	- ❣️ I love developing web applications and playing games
+	- 📫 How to reach me: Telegram or Email<br>
+	- ❣️ I love developing web applications and playing games<br>
 </div>
 
 <div id="contacts" align="center">
-	<h1>📱 Contacts 📱</h1>
+	<h1>💬 Contacts 📱</h1>
 	<a href="https://t.me/Nixx5">
 		<img src="telegram.svg" alt="Telegram" width="100"/>
 	</a>
@@ -35,7 +35,7 @@
 </div>
 
 <div id="stat" align="center">
-	<h1>⭐ Stats ⭐</h1>
+	<h1>⭐⚡ Stats ⚡⭐</h1>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nixx342&theme=github_dark" wigth="90%"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nixx342&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nixx342&theme=github_dark"/>
